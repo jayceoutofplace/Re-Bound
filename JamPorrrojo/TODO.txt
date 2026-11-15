@@ -1,0 +1,30 @@
+RETURN TO SENDER - You cannot shoot normally. Instead, you catch enemy bullets and launch them back at enemies.
+twist: The closer you are to dying, the stronger your counterattacks become. (maybe a slowdown ability to slowdown time?)
+
+TODO:
+
+Player - DONE
+Camera - DONE
+Enemy - DONE
+enemy rotating to player x,y DONE
+enemy walk towards player DONE
+enemy shooting at player DONE
+make bullet kill player DONE
+draw points - DONE
+make enemies go to points - DONE
+constrain enemy rotation NOT DONE
+map system - DONE
+level system - NOT DONE
+Slowmo+radius - DONE
+set movespeeds to a low value
+Grab Bullet - DONE
+while radius is open check for the first bullet to enter the radius if you click the screen the bullet will appear as a object you can throw
+Aiming system - DONE
+Player Bullet Kills agents - DONE
+SLOWMO COOLDOWN - NOT DONE
+Basic programmer art - DONE
+Make enemies collide with walls - DONE
+Fix enemies spawning in walls - DONE
+Add doors with custom events - DONE
+Add OMEGA AGENT boss fight - NOT DONE
+art - NOT DONE
